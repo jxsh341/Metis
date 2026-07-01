@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw and filtered generated data (not the transformed dataset or eval results)
+data/raw/
+data/filtered/
+data/final/
