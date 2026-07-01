@@ -1,6 +1,6 @@
 # Metis — Structured Reasoning Discipline
 
-**Experimental.** Metis is an experimental research framework that investigates whether reasoning discipline is a trainable property of large language models. Rather than relying on single-pass reasoning or prompt engineering alone, Metis introduces a structured five-stage reasoning process consisting of an Initial Hypothesis, Assumption Audit, Self-Critique, Revised Reasoning, and Grounded Conclusion. The project includes tools for generating synthetic reasoning data, transforming existing reasoning traces into the Metis format, and evaluating structured reasoning against conventional inference pipelines.
+Metis is an experimental research framework that investigates whether reasoning discipline is a trainable property of large language models. Rather than relying on single-pass reasoning or prompt engineering alone, Metis introduces a structured five-stage reasoning process consisting of an Initial Hypothesis, Assumption Audit, Self-Critique, Revised Reasoning, and Grounded Conclusion. The project includes tools for generating synthetic reasoning data, transforming existing reasoning traces into the Metis format, and evaluating structured reasoning against conventional inference pipelines.
 
 ## Pipeline
 
